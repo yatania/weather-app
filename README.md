@@ -4,7 +4,7 @@ Utilises Metaweather API for weather data.
 Tailwind React was also used in this project.
 
 Install
-Clone this repo git clone https://github.com/yatania/weather-react-app.git
+Clone this repo git clone https://github.com/yatania/weather-app.git
 cd weather-app
 Install node packages npm install
 Serve it locally: npm start
